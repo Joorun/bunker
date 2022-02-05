@@ -1,4 +1,3 @@
-
 <img src="https://www.becel.com.br/-/media/project/upfield/brands/becel-nl/becel-br/assets/sobre-becel/empty.png" alt="empty" width= 90> <img src="https://media2.giphy.com/media/lkKD88tfMkCwf6kPji/200w.webp" alt="gif" width= 100>
 
 # Bem-vinde ao Bunker
