@@ -16,3 +16,6 @@
 - [Premiere 2022](https://drive.google.com/file/d/1rLhj39iuyfhSlrGSoskj1WQYabKxqLNj/view?usp=sharing)
 
 > Caso necessário, aqui tem um [tutorial](https://i.imgur.com/SBTM5BL.png) pra instalação.
+
+## <img src="https://i.imgur.com/l4WmFVZ.png" alt="empty" width= 18> League of Legends
+> [RuneBook](https://github.com/OrangeNote/RuneBook/releases/tag/v1.8.11) é um programa que funciona como um local pra guardar suas páginas de runa. Você consegue importar suas runas com um clique direto pro LoL — _muito bom pra quem esquece de mudar a runa com frequência, como eu_ — e também pode achar algumas runas direto do [OP.GG](https://br.op.gg) e importar de lá.
