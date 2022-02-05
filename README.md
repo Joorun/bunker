@@ -4,7 +4,7 @@
   
 > Aqui você vai encontrar link pra download de algumas coisas.
 
-## Adobe
+## Adobe <img src="https://i.imgur.com/snigJlA.png" alt="empty" width= 20>
 > Você vai precisar de um programa que abra arquivos de extensão {_.torrent_}. Recomendo o [qBittorrent](https://www.qbittorrent.org/download.php).
 - [After Effects 2022](https://drive.google.com/file/d/1Z0bys3_ZMisMtF6vMZRjiRiCMbHE2bQl/view?usp=sharing)
 - [Animate 2022](https://drive.google.com/file/d/1s8LihiDZXP7uHzjses1wivze265b1F6q/view?usp=sharing)
