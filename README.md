@@ -14,3 +14,5 @@
 - [Media Encoder 2022](https://drive.google.com/file/d/1nbV77V-WJ-04wsNMiiQHXO5q48e7IkWH/view?usp=sharing)
 - [Photoshop 2022](https://drive.google.com/file/d/1Tcwo1C5xLqaA81-nh_RvTsP1pHyLov4R/view?usp=sharing)
 - [Premiere 2022](https://drive.google.com/file/d/1rLhj39iuyfhSlrGSoskj1WQYabKxqLNj/view?usp=sharing)
+
+> Caso necessário, aqui tem um [tutorial](https://i.imgur.com/SBTM5BL.png) pra instalação.
