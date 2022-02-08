@@ -16,7 +16,14 @@
 - [Photoshop 2022](https://drive.google.com/file/d/1Tcwo1C5xLqaA81-nh_RvTsP1pHyLov4R/view?usp=sharing)
 - [Premiere 2022](https://drive.google.com/file/d/1rLhj39iuyfhSlrGSoskj1WQYabKxqLNj/view?usp=sharing)
 ### 2021
--
+- [After Effects 2021](https://drive.google.com/file/d/1m2D-fG3ocH-U9NbW4Z77yNQPPm-Ff4T7/view?usp=sharing)
+- [Animate 2022]()
+- [Illustrator 2022]()
+- [InDesign 2022]()
+- [Lightroom 2022]()
+- [Media Encoder 2022]()
+- [Photoshop 2022]()
+- [Premiere 2022]()
 > Caso necessário, aqui tem um [tutorial](https://i.imgur.com/SBTM5BL.png) pra instalação.  
 > Talvez você precise desativar seu antivírus pra instalação, porque são programas crackeados.
 
