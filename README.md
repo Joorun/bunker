@@ -6,7 +6,7 @@
 
 ## <img src="https://i.imgur.com/snigJlA.png" alt="empty" width= 20> Adobe
 > Você vai precisar de um programa que abra arquivos de extensão {_.torrent_}. Recomendo o [qBittorrent](https://www.qbittorrent.org/download.php).
-### 2022
+### ✧ 2022
 - [After Effects 2022](https://drive.google.com/file/d/1Z0bys3_ZMisMtF6vMZRjiRiCMbHE2bQl/view?usp=sharing)
 - [Animate 2022](https://drive.google.com/file/d/1s8LihiDZXP7uHzjses1wivze265b1F6q/view?usp=sharing)
 - [Illustrator 2022](https://drive.google.com/file/d/1BiB0hHP8RSNdnQMuWnyb5C4MaBq2nhma/view?usp=sharing)
@@ -15,7 +15,7 @@
 - [Media Encoder 2022](https://drive.google.com/file/d/1nbV77V-WJ-04wsNMiiQHXO5q48e7IkWH/view?usp=sharing)
 - [Photoshop 2022](https://drive.google.com/file/d/1Tcwo1C5xLqaA81-nh_RvTsP1pHyLov4R/view?usp=sharing)
 - [Premiere 2022](https://drive.google.com/file/d/1rLhj39iuyfhSlrGSoskj1WQYabKxqLNj/view?usp=sharing)
-### 2021
+### ✧ 2021
 - [After Effects 2021](https://drive.google.com/file/d/1m2D-fG3ocH-U9NbW4Z77yNQPPm-Ff4T7/view?usp=sharing)
 - [Animate 2021](https://drive.google.com/file/d/1RJghJLh1j4fR88ZyXDsqkeVUfAtNemOk/view?usp=sharing)
 - [Illustrator 2021](https://drive.google.com/file/d/1wUdMtDcR-gaimeGLJEhsqfeNj1cGIO4c/view?usp=sharing)
