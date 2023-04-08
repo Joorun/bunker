@@ -2,7 +2,7 @@
 
 # Bem-vinde ao Bunker
   
-> Aqui você vai encontrar link pra download de algumas coisas.
+> Aqui você vai encontrar link pra download e recomendações de algumas coisas.
 
 ## <img src="https://i.imgur.com/snigJlA.png" alt="empty" width= 20> Adobe
 > Você vai precisar de um programa que abra arquivos de extensão {_.torrent_}. Recomendo o [qBittorrent](https://www.qbittorrent.org/download.php).
