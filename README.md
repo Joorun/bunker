@@ -27,4 +27,4 @@
 > Talvez você precise desativar seu antivírus pra instalação, porque são programas crackeados.
 
 ## <img src="https://i.imgur.com/l4WmFVZ.png" alt="empty" width= 18> League of Legends
-- [RuneBook](https://github.com/OrangeNote/RuneBook/releases/tag/v1.8.11) é um programa que funciona como um local pra guardar suas páginas de runa. Você consegue importar suas runas com um clique direto pro LoL — _muito bom pra quem esquece de mudar a runa com frequência, como eu_ — e também pode achar algumas runas direto do [OP.GG](https://br.op.gg) e importar de lá.
+- [RuneBook](https://github.com/OrangeNote/RuneBook/releases/tag/v1.8.11) é um programa que funciona como um local pra guardar suas páginas de runa. Você consegue importar suas runas com um clique direto pro LoL — _muito bom pra quem esquece de mudar a runa com frequência, como eu._
