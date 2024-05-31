@@ -24,14 +24,7 @@
 - [Media Encoder 2022](https://drive.google.com/file/d/1nbV77V-WJ-04wsNMiiQHXO5q48e7IkWH/view?usp=sharing)
 - [Photoshop 2022](https://drive.google.com/file/d/1Tcwo1C5xLqaA81-nh_RvTsP1pHyLov4R/view?usp=sharing)
 - [Premiere 2022](https://drive.google.com/file/d/1rLhj39iuyfhSlrGSoskj1WQYabKxqLNj/view?usp=sharing)
-### ✧ 2021
-- [After Effects 2021](https://drive.google.com/file/d/1m2D-fG3ocH-U9NbW4Z77yNQPPm-Ff4T7/view?usp=sharing)
-- [Animate 2021](https://drive.google.com/file/d/1RJghJLh1j4fR88ZyXDsqkeVUfAtNemOk/view?usp=sharing)
-- [Illustrator 2021](https://drive.google.com/file/d/1wUdMtDcR-gaimeGLJEhsqfeNj1cGIO4c/view?usp=sharing)
-- [InDesign 2021](https://drive.google.com/file/d/1TTFjjPFPwxJ7RF2rZmJFDkszxeIapOqq/view?usp=sharing)
-- [Lightroom 2021](https://drive.google.com/file/d/1qXclIeviYXurfq6A7wfFjHlYy8VepMuG/view?usp=sharing)
-- [Photoshop 2021](https://drive.google.com/file/d/1nWOGO4fUiKCK0VQo_afB28VEUMQeIDYA/view?usp=sharing)
-- [Premiere 2021](https://drive.google.com/file/d/1mMattEWHV6ycJRDaP_MilWuk9VViDtg7/view?usp=sharing)
+
 > Caso necessário, aqui tem um [tutorial](https://i.imgur.com/SBTM5BL.png) pra instalação.  
 > Talvez você precise desativar seu antivírus pra instalação, porque são programas crackeados.
 
